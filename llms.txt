@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في العتمة دليلي
+> روحي تنادي وعينيك سبيلي
+> أشواق ليلي تفيض بالحنين
+> ونبض عشقي في صمتي يبين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
